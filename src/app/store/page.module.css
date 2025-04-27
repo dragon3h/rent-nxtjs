@@ -1,0 +1,26 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  border: solid 1px #2b2626;
+  border-radius: 5px;
+}
+
+.thead {
+  background-color: #ecc71e;
+  font-weight: bold;
+  text-align: left;
+  padding: 8px;
+  border: solid 1px #2b2626;
+}
+
+.column-header {
+  padding: 8px;
+  border: solid 1px #2b2626;
+}
+
+.cell {
+  padding: 8px;
+  border: solid 1px #2b2626;
+  text-align: center;
+  background-color: #f9f9f9;
+}
