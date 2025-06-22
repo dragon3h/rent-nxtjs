@@ -1,0 +1,1 @@
+https://console.anthropic.com/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A54545%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference&code_challenge=2TGJZY5q9cL1ZqBvpcCw4Z7IvJPO4VgyiQsLtJrx-yU&code_challenge_method=S256&state=1VyhdXWZprXmp0_f1YlToyMDKzlCDKDV0gWxPsfgDVU

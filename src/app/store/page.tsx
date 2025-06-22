@@ -7,7 +7,7 @@ import { BouncyCastle } from '@/entities/BouncyCastle';
 import React from 'react';
 
 export default function StorePage() {
-  const [data, _setData] = React.useState(() => [...bouncyCastles]);
+  const [data, setData] = React.useState(() => [...bouncyCastles]);
   const rerender = React.useReducer(() => ({}), {})[1];
 
   const columnHelper = createColumnHelper<BouncyCastle>();
